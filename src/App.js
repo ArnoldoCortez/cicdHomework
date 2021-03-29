@@ -10,6 +10,10 @@ function App() {
         <p>
           Arnoldo Cortez y Quevedo
         </p>
+        <p>
+          Software Engineer
+        </p>
+        
         <a
           className="App-link"
           href="https://reactjs.org"
